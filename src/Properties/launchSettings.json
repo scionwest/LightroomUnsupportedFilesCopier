@@ -2,7 +2,7 @@
   "profiles": {
     "LightroomPhotoCopy": {
       "commandName": "Project",
-      "commandLineArgs": "copy -f C:\\Users\\johna\\Downloads\\2019.txt"
+      "commandLineArgs": "copy -f C:\\Users\\UserName\\Downloads\\2019.txt"
     }
   }
 }
